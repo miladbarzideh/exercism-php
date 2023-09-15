@@ -8,3 +8,5 @@
 
 | Problem                   |  Status   |
 | :------------------------ | :-------: |
+| hello-world               | Completed |
+| lasagna                   | Completed |
