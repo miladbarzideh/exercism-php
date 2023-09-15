@@ -6,7 +6,8 @@
 
 ## Progress
 
-| Problem                   |  Status   |
-| :------------------------ | :-------: |
-| hello-world               | Completed |
-| lasagna                   | Completed |
+| Problem               |  Status   |
+|:----------------------| :-------: |
+| hello-world           | Completed |
+| lasagna               | Completed |
+| annalyns-infiltration | Completed |
