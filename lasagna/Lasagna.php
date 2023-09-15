@@ -9,19 +9,19 @@ class Lasagna
         return 40;
     }
 
-    function remainingCookTime($elapsedMinutes)
+    function remainingCookTime($elapsed_minutes)
     {
-        return $this->expectedCookTime() - $elapsedMinutes;
+        return $this->expectedCookTime() - $elapsed_minutes;
     }
 
-    function totalPreparationTime($layersToPrep)
+    function totalPreparationTime($layers_to_prep)
     {
-        return 2 * $layersToPrep;
+        return 2 * $layers_to_prep;
     }
 
-    function totalElapsedTime($layersToPrep, $elapsedMinutes)
+    function totalElapsedTime($layers_to_prep, $elapsed_minutes)
     {
-        return $this->totalPreparationTime($layersToPrep) + $elapsedMinutes;
+        return $this->totalPreparationTime($layers_to_prep) + $elapsed_minutes;
     }
 
     function alarm()
