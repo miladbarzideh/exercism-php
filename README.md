@@ -11,3 +11,4 @@
 | hello-world           | Completed |
 | lasagna               | Completed |
 | annalyns-infiltration | Completed |
+| pizza-pi              | Completed |
