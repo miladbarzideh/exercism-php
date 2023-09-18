@@ -1,0 +1,10 @@
+<!-- phpunit.xml -->
+<!-- This configuration tells PHPUnit to run tests in the current directory and its subdirectories.-->
+
+<phpunit>
+    <testsuites>
+        <testsuite name="Exercism.php">
+            <directory>./</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
