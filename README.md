@@ -14,3 +14,4 @@
 | pizza-pi              | Completed |
 | sweethearts           | Completed |
 | windowing-system      | Completed |
+| language-list         | Completed |
