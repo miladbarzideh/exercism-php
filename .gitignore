@@ -477,7 +477,7 @@ composer.lock
 *.sass.map
 *.scss.map
 
- /.phpunit.result.cache
+.phpunit.result.cache
 
 ##### Exercism
 **/.exercism
