@@ -1,5 +1,7 @@
 {
-
+    "name": "miladbarzideh/exercism-php-syllabus",
+    "description": "My solutions to Exercism's PHP track",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "^10.3"
     },
