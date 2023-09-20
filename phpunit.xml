@@ -1,7 +1,8 @@
 <!-- phpunit.xml -->
 <!-- This configuration tells PHPUnit to run tests in the current directory and its subdirectories.-->
 
-<phpunit>
+<phpunit colors="true"
+        bootstrap="vendor/autoload.php">
     <testsuites>
         <testsuite name="Exercism.php">
             <directory>./</directory>
