@@ -16,3 +16,4 @@
 | windowing-system      | Completed |
 | language-list         | Completed |
 | hamming               | Completed |
+| high-scores           | Completed |
