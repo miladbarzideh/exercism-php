@@ -15,3 +15,4 @@
 | sweethearts           | Completed |
 | windowing-system      | Completed |
 | language-list         | Completed |
+| hamming               | Completed |
