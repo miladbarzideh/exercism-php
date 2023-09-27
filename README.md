@@ -17,3 +17,4 @@
 | language-list         | Completed |
 | hamming               | Completed |
 | high-scores           | Completed |
+| isogram               | Completed |
