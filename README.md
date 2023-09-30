@@ -19,3 +19,4 @@
 | high-scores           | Completed |
 | isogram               | Completed |
 | simple-cipher         | Completed |
+| linked-list           | Completed |
