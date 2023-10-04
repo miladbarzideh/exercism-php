@@ -20,3 +20,4 @@
 | isogram               | Completed |
 | simple-cipher         | Completed |
 | linked-list           | Completed |
+| bob                   | Completed |
